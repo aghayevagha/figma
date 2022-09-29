@@ -1,0 +1,76 @@
+@media (min-width: 992px) and (max-width: 1279px) {
+    h2 {
+        font-size: 3.8vw;
+    }
+
+    h4 {
+        font-size: 1.8vw;
+    }
+
+    .course {
+        margin-bottom: 12vw;
+    }
+
+    .course-container {
+        padding-left: 8vw;
+    }
+
+    .course-header {
+        margin-bottom: 5.5vw;
+    }
+
+    .course-main {
+        display: flex;
+        margin-bottom: 5.2vw;
+    }
+
+    .course-main-content {
+        width: 46vw;
+        margin-right: 14vw;
+    }
+
+    .course-main-content p {
+        font-size: 1.7vw;
+    }
+
+    .course-main-content p.course-main-content-first {
+        margin-bottom: 2.8vw;
+    }
+
+    .course-main-img {
+        display: flex;
+        justify-content: center;
+        padding-right: 10vw;
+    }
+
+    .cameraman {
+        width: 21.8vw;
+    }
+
+    .course-footer-container {
+        display: flex;
+    }
+
+    .course-footer-img {
+        width: 16vw;
+        margin-right: 13vw;
+    }
+
+    .course-footer-content {
+        display: flex;
+        align-items: center;
+    }
+
+    .course-footer-content-box {
+        margin-right: 6.6vw;
+    }
+
+    .course-footer-content-box h4 {
+        margin-bottom: 0.5vw;
+    }
+
+    .course-footer-content-box p {
+        width: 10.5vw;
+        font-size: 1.3vw;
+    }
+}
